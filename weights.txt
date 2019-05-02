@@ -1,0 +1,2 @@
+Please refer to this link for the weights of trained model of question 2
+https://drive.google.com/open?id=12RPCJyUGkZxd_HwQpt_DLRFPyKugiX4x
